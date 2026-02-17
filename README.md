@@ -5,7 +5,7 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <h1 align="center">Hi I'm Harpreet kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-/*-  I’m currently working on [Quize Game](https://github.com/kaur91987-cmd/AnimationGame.git)
+-  I’m currently working on [Quize Game](https://github.com/kaur91987-cmd/AnimationGame.git)
 
 - Ask me about **HTML, CSS, JavaScript, PHP and MYSQL**
 
@@ -96,3 +96,4 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <h1>License</h1>
 <p>This project is open-source and free to use.</p>
 <br>
+ 
