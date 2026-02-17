@@ -1,6 +1,6 @@
 # quizgame
-This is a php ,html and sql based project. This is now three step Register, login and logout session based.
 A dynamic Quiz Game Web Application built using PHP, MySQL, HTML, CSS, and JavaScript.
+This is now three step Register, login and logout session based.
 The project includes three difficulty levels: Basic, Medium, and High.
 <h1 align="center">Hi I'm Harpreet kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -18,7 +18,7 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h1>🚀 Features</h1>
+<h1> Features</h1>
 <ul>
   <li>User Registration & Login System</li>
   <li>Secure Authentication (Session-based login)</li>
@@ -38,7 +38,7 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 <br><br>
 <h1>Project Structure</h1>
-
+<code>
 quiz-game/
 │── index.php
 │── login.php
@@ -53,7 +53,7 @@ quiz-game/
 │    ├── css/
 │    ├── js/
 │    └── images/
-
+</code>
 <h1>Database Setup</h1>
 <ol>
   <li>Open <b>phpMyAdmin</b></li>
@@ -61,7 +61,6 @@ quiz-game/
   <li>Import <code>database.sql</code> file</li>
   <li>Update <code>database.sql</code> file</li>
 </ol>
-<br>
 <br>
 <h1>How It Works</h1>
 <ol>
@@ -73,7 +72,6 @@ quiz-game/
   <li>View final score</li>
 </ol>
 <br>
-<br>
 <h1>User Authentication</h1>
 <ul>
   <li>Password stored securely</li>
@@ -82,8 +80,41 @@ quiz-game/
 </ul>
 <h1>Screenshots</h1>
 
-<img width="755" height="587" alt="image" src="https://github.com/user-attachments/assets/16f73c2e-a75f-4a29-856c-479bf68c6aba" />
+<img width="755" height="587" alt="image" src="https://github.com/user-attachments/assets/16f73c2e-a75f-4a29-856c-479bf68c6aba" /><br>
 <caption>Register Page</caption>
 <br>
+<img width="677" height="406" alt="image" src="https://github.com/user-attachments/assets/98a5c8ef-0046-4bef-9bb9-929f21fbf177" /><br>
+<caption>Login Page</caption>
+<br><br>
+<h1>Future Improvements</h1>
+<ul>
+  <li>Admin panel to add questions</li>
+  <li>Timer for each question</li>
+  <li>Leaderboard system</li>
+  <li>Negative marking</li>
+  <li>Random question generator</li>
+  <li>Email verification system</li>
+</ul>
 <br>
-
+<h1>Email verification system</h1>
+<code>
+  SELECT * FROM questions WHERE level = 'basic';
+  SELECT * FROM questions WHERE level = 'medium';
+  SELECT * FROM questions WHERE level = 'high';
+</code>
+<br>
+<h1>How to Run the Project</h1>
+<ol>
+  <li>Install XAMPP</li>
+  <li>Start Apache & MySQL</li>
+  <li>Move project folder to: <code>htdocs/</code></li>
+  <li>Open browser: <code>http://localhost/quiz-game/</code></li>
+</ol>
+<br>
+<h1>Author</h1>
+<h4>Harpreet Kaur</h4>
+<p><b>PHP & Web Development Learner</b></p>
+<br>
+<h1>License</h1>
+<p>This project is open-source and free to use.</p>
+<br>
