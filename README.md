@@ -5,7 +5,7 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <h1 align="center">Hi I'm Harpreet kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
--  I’m currently working on [Quize Game](https://github.com/kaur91987-cmd/AnimationGame.git)
+/*-  I’m currently working on [Quize Game](https://github.com/kaur91987-cmd/AnimationGame.git)
 
 - Ask me about **HTML, CSS, JavaScript, PHP and MYSQL**
 
@@ -13,7 +13,7 @@ The project includes three difficulty levels: Basic, Medium, and High.
 
 - Know about my experiences [fresher](fresher)
 
-- Fun fact **I am so hardworking and responsible**
+<p>Passionate and dedicated PHP developer focused on building secure, dynamic, and user-friendly web applications. I enjoy solving real-world problems using clean backend logic and structured database design.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,23 +37,6 @@ The project includes three difficulty levels: Basic, Medium, and High.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 <br><br>
-<h1>Project Structure</h1>
-<code>
-quiz-game/
-│── index.php
-│── login.php
-│── register.php
-│── dashboard.php
-│── quiz.php
-│── result.php
-│── logout.php
-│── connection.php
-│── database.sql
-│── assets/
-│    ├── css/
-│    ├── js/
-│    └── images/
-</code>
 <h1>Database Setup</h1>
 <ol>
   <li>Open <b>phpMyAdmin</b></li>
@@ -97,11 +80,6 @@ quiz-game/
 </ul>
 <br>
 <h1>Email verification system</h1>
-<code>
-  SELECT * FROM questions WHERE level = 'basic';
-  SELECT * FROM questions WHERE level = 'medium';
-  SELECT * FROM questions WHERE level = 'high';
-</code>
 <br>
 <h1>How to Run the Project</h1>
 <ol>
